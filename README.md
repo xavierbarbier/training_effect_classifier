@@ -1,7 +1,7 @@
 # Training effect classifier
 
 * Training session from a rugby team
-* in-week training phase labeled as energetic or explosiv
+* in-week training phase labeled as energetic or explosive
 * 12% of missing / unknow label for phase
 
 The goal is to predict training phase based on external workload data (GPS).
